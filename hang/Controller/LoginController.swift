@@ -1,10 +1,7 @@
 //
 //  LoginController.swift
 //  hang
-//
-//  Created by Joe Kennedy on 4/15/18.
-//  Copyright © 2018 Joe Kennedy. All rights reserved.
-//
+
 
 import UIKit
 import Firebase
